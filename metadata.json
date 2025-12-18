@@ -1,0 +1,5 @@
+{
+  "name": "图标整理 AI",
+  "description": "基于 Gemini 的批量图标重命名工具。上传数千个混乱的图标文件，AI 将分析文件名并将其标准化为结构化的“英文--中文--域名”格式，便于组织和查找。",
+  "requestFramePermissions": []
+}
